@@ -1,0 +1,37 @@
+.cabeçario{
+    color: brown;
+}
+body{
+    background-color:#A6A6A6;
+}
+.imagens{
+    width: 500px;
+}
+section{
+    display:flex;
+}
+article{
+    margin: 8px;
+}
+nav,ul{
+    display:flex;
+}
+header img{
+    width: 100px;
+    height: 100px;
+}
+#historia img{
+    float:left;
+}
+main{
+    margin: left;
+    padding: 40px;
+}
+#arcoatual{
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+}
+    
+
+

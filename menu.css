@@ -1,0 +1,21 @@
+header {
+    background-color:#0895;
+    
+}
+nav{
+    margin-left: -15px;
+}
+nav,ul{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+*{
+    box-sizing: border-box;
+}
+#menu-h {
+    list-style: none;
+    padding: 0;
+}
+
+    
